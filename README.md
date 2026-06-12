@@ -47,6 +47,6 @@ Then enable it in QGIS: **Plugins → Manage and Install Plugins → search "Kat
 
 ## License
 
-Free software. See the included license file.
+Released under the [MIT License](LICENSE) — free to use, modify, and distribute.
 
 
